@@ -15,7 +15,9 @@ One print line with the phrase "I love Python!".
 
 One print line with the name of the CITY you live in.
 
-![print function](https://github.com/user-attachments/assets/9b42afdd-abe3-4df1-a0c4-dd7d7de2b389)
-One print line with a math problem (example print(3 * 4) )
-
 Please add a BLANK LINE between EVERY output line!  
+
+
+![print function](https://github.com/user-attachments/assets/9b42afdd-abe3-4df1-a0c4-dd7d7de2b389)
+
+
